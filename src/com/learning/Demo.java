@@ -14,7 +14,7 @@ public class Demo {
 			}
 		};*/
 		
-		Functional f1 = () -> System.out.println("I love java programming");
+		Functional f1 = () -> System.out.println("I Like java programming");
 		f1.add();
 		f1.print("java", 22);
 		f1.print1("test", 20);
@@ -23,7 +23,7 @@ public class Demo {
 		Functional f2 = new Functional() {
 			@Override
 			public void add() {
-				System.out.println("I love functional programming");
+				System.out.println("I love functional programming learning");
 			}
 		};
 		
