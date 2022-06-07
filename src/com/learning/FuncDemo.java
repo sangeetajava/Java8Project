@@ -15,7 +15,7 @@ public class FuncDemo {
 				for(int n=2; n<=i;n++) {
 					fact = fact*n;  //1*2*3*4*5
 				}
-				System.out.println("factorial of-- "+i+"--is ==="+fact);
+				System.out.println("factorial of given number-- "+i+"--is ==="+fact);
 				return fact;
 			}
 		};*/
@@ -26,7 +26,7 @@ public class FuncDemo {
 				for(int n=2; n<=i;n++) {
 					fact = fact*n;  //1*2*3*4*5
 				}
-				System.out.println("factorial of-- "+i+"--is ==="+fact);
+				System.out.println("factorial of my number-- "+i+"--is ==="+fact);
 				return fact;
 			};
 	
