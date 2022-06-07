@@ -16,7 +16,7 @@ public class FuncDemo {
 					fact = fact*n;  //1*2*3*4*5
 				}
 
-				System.out.println("factorial of my own number-- "+i+"--is ==="+fact);
+System.out.println("factorial of my own number-- "+i+"--is ==="+fact);
 
 				return fact;
 			}
